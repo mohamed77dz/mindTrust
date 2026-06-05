@@ -1,0 +1,23 @@
+# OS & build artifacts
+.DS_Store
+*.apk
+*.aab
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Platform
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+*.jks
